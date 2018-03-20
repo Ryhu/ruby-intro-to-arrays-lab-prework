@@ -8,6 +8,6 @@ def array_with_two_elements
   return a
 end
 
-def first_element
-  
+def first_element(arr )
+  return arr[0]
 end
